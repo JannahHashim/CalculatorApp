@@ -11,6 +11,7 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 //variable just put any name (tak semestinya sama dengan unique id dalam design)
+//all the name should different from other
     private TextView result;
     private EditText edtno1;
     private EditText edtno2;
